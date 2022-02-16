@@ -3,8 +3,13 @@ content_type: resource
 description: 'Slides from a lecture presentation covering the following topics: hands
   on experience with gamma spectrometer, multi-element trace analysis by neutron activation
   analysis, and a case study of environmental samples.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005/90d76ac11ae972085627668d073d990c_session4a.pdf
+file: /media/courses/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005/90d76ac11ae972085627668d073d990c_session4a.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Trace Element Analysis by Neutron Activation Analysis - A Case Study of Environmental
   Samples Using the Instruments
