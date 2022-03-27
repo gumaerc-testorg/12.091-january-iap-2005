@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: b944532c-0d63-cee1-2d28-4d49989f1828
 resourcetype: Document
 title: Delayed Neutron Activation Analysis
 uid: 65e1d1f8-d34b-c1c3-2298-256fead29693

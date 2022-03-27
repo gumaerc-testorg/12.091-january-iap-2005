@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d7b05319-b06d-0c52-3e98-e8cf9ebdae66
 resourcetype: Document
 title: Trace Element Analysis by Neutron Activation Analysis - A Case Study of Environmental
   Samples Using the Instruments

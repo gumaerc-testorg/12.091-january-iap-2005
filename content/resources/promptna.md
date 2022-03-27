@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: b944532c-0d63-cee1-2d28-4d49989f1828
 resourcetype: Document
 title: Prompt Neutron Activation Analysis (PGNAA)
 uid: c71869cd-9902-302f-0a0c-8a10029ad14f

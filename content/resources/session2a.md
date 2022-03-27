@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d7b05319-b06d-0c52-3e98-e8cf9ebdae66
 resourcetype: Document
 title: Gamma Detection - Instrumentation Principles
 uid: d2ccfbe6-b8cc-f520-22a9-d538823815c6
