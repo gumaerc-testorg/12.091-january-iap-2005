@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides course quiz questions.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -12,7 +13,7 @@ Starting with the second session, there will be a brief quiz during each session
 Question 1
 ----------
 
-In a house in Cambridge, the water from the faucet suddenly started showing some particulate matter, which is suspected to be copper from a pipe. It was brought to the MIT Reactor for analysis. You are asked to calculate the activity that would be produced by thermal neutron activation, if 1 gram of copper is irradiated in the reactor flux of 4 x 10{{< sup "12" >}} n.cm{{< sup "\\-2" >}}.sec{{< sup "\\-1" >}} for 2 hours.
+In a house in Cambridge, the water from the faucet suddenly started showing some particulate matter, which is suspected to be copper from a pipe. It was brought to the MIT Reactor for analysis. You are asked to calculate the activity that would be produced by thermal neutron activation, if 1 gram of copper is irradiated in the reactor flux of 4 x 10{{< sup "12" >}} n.cm{{< sup "\-2" >}}.sec{{< sup "\-1" >}} for 2 hours.
 
 1.  On removal what is the activity of each copper isotope?
 2.  What will be the activity of each isotope 1 hour after the removal from the reactor?
