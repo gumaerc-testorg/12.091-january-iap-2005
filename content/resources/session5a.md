@@ -8,6 +8,7 @@ file: /courses/12-091-trace-element-analysis-of-geological-biological-environmen
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Summary and Conclusions
 uid: abee10a1-1b9e-2938-2bfc-5e40f726c3b2
 ---
 Slides from a lecture presentation covering the following topics: student's individual presentations, assignment review, neutron activation analysis, trace element geochemistry, mineralogy, petrology, studies done using the MIT-EAPS INAA Laboratory, and advantages of neutron activation analysis.
-

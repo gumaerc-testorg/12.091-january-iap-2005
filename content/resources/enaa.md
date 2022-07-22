@@ -6,6 +6,7 @@ file: /courses/12-091-trace-element-analysis-of-geological-biological-environmen
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: The Processes of Epithermal Neutron Activation Analysis
 uid: 314a203e-1db9-0226-135a-9eb8cf9e188f
 ---
 Sample student project presentation courtesy of Martin D. Lyttle. Used with permission.
-

@@ -5,6 +5,7 @@ file: /courses/12-091-trace-element-analysis-of-geological-biological-environmen
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Delayed Neutron Activation Analysis
 uid: 65e1d1f8-d34b-c1c3-2298-256fead29693
 ---
 Sample student presentation courtesy of Wen-fai Fong. Used with permission.
-

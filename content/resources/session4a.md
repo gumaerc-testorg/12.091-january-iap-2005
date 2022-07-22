@@ -7,6 +7,7 @@ file: /courses/12-091-trace-element-analysis-of-geological-biological-environmen
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Trace Element Analysis by Neutron Activation Analysis - A Case Study of E
 uid: 90d76ac1-1ae9-7208-5627-668d073d990c
 ---
 Slides from a lecture presentation covering the following topics: hands on experience with gamma spectrometer, multi-element trace analysis by neutron activation analysis, and a case study of environmental samples.
-
