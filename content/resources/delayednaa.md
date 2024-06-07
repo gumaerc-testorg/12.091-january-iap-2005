@@ -2,6 +2,7 @@
 content_type: resource
 description: Sample student presentation courtesy of Wen-fai Fong. Used with permission.
 file: /courses/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005/65e1d1f8d34bc1c32298256fead29693_delayednaa.pdf
+file_size: 85733
 file_type: application/pdf
 learning_resource_types:
 - Projects

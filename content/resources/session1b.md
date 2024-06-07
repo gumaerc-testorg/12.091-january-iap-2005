@@ -5,6 +5,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   neutron sources, nuclear reactor schematic, neutron flux, neutron capture cross-sections,
   and neutron activation radioactivity.'
 file: /courses/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005/10b2206415a0db787ebff3d8c2e6d2d7_session1b.pdf
+file_size: 322688
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
