@@ -4,6 +4,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   environmental and geological materials, trace element analysis, neutron activation
   analysis, and exposure.'
 file: /courses/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005/0ab2bd597b53276dd79a108b5eb84ef5_session1a.pdf
+file_size: 226146
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
