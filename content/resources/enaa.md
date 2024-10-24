@@ -2,7 +2,7 @@
 content_type: resource
 description: Sample student project presentation courtesy of Martin D. Lyttle. Used
   with permission.
-file: /courses/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005/314a203e1db90226135a9eb8cf9e188f_enaa.pdf
+file: /ol-ocw-studio-app/courses/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005/314a203e1db90226135a9eb8cf9e188f_enaa.pdf
 file_size: 306516
 file_type: application/pdf
 learning_resource_types:
