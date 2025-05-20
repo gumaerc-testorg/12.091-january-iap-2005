@@ -4,7 +4,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   of concepts from session 1, gamma detection, instrumentation concepts, neutron activation
   analysis, trace element analysis of geological, and biological and environmental
   materials.'
-file: /ol-ocw-studio-app/courses/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005/e5306a0bdde470475584d055519037f5_session2b.pdf
+file: /courses/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005/e5306a0bdde470475584d055519037f5_session2b.pdf
 file_size: 183676
 file_type: application/pdf
 learning_resource_types:
