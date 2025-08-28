@@ -3,7 +3,7 @@ content_type: resource
 description: 'Slides from a lecture presentation covering the following topics: uncertainties
   in analytical measurements, sampling and instrumental neutron activation analysis
   sample preparation, and hands on experience with sample preparation in laboratory.'
-file: /courses/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005/3a2c564bba9267ed885fa8349f6d10bf_session3a.pdf
+file: /ol-ocw-studio-app/courses/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005/3a2c564bba9267ed885fa8349f6d10bf_session3a.pdf
 file_size: 177150
 file_type: application/pdf
 learning_resource_types:
